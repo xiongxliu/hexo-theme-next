@@ -602,10 +602,10 @@ calendar:
 
 # Disqus
 disqus:
-  enable: true
-  shortname: xxliu
-  count: true
-  lazyload: true
+  enable: false
+  shortname: 
+  count: false
+  lazyload: false
 
 # DisqusJS
 # Alternative Disqus - Render comment component using Disqus API
